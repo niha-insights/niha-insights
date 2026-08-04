@@ -42,7 +42,7 @@ I'm an aspiring Data Analyst passionate about transforming data into meaningful 
 
 ---
 
-# 📁 Data Analytics Portfolio
+## 🚀 Featured Projects
 
 ## 🍽️ Zomato Restaurant Expansion Strategy
 
